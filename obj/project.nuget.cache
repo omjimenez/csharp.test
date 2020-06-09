@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0q82zNVmEnTHefJlR0peoXs9OOnr4Epm90vsvdzLevg9ZPTptkQlPFTt4ARg/2UNEH+k3hjSRhyql7ntbgPYBg==",
+  "success": true,
+  "projectFilePath": "/home/orlando/proyectos/csharp/csharp.test/csharp.test.csproj",
+  "expectedPackageFiles": [
+    "/home/orlando/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

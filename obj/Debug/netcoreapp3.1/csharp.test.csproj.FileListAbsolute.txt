@@ -1,0 +1,13 @@
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test.deps.json
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test.runtimeconfig.json
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test.runtimeconfig.dev.json
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test.dll
+/home/orlando/proyectos/csharp/csharp.test/bin/Debug/netcoreapp3.1/csharp.test.pdb
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.csprojAssemblyReference.cache
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.AssemblyInfoInputs.cache
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.AssemblyInfo.cs
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.csproj.CoreCompileInputs.cache
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.dll
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.pdb
+/home/orlando/proyectos/csharp/csharp.test/obj/Debug/netcoreapp3.1/csharp.test.genruntimeconfig.cache
